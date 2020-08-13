@@ -2,7 +2,7 @@
 
 Haoming Jin
 
-![](figures\AirBnB-San-Francisco-hq.png)
+<img src="figures\AirBnB-San-Francisco-hq.png"/>
 
 ## 1. Introduction
 
@@ -19,7 +19,7 @@ The Data used in this project is obtained from the website _Inside Airbnb_ , htt
 
 The interactive map shows a heatmap of densities of Airbnb locations in San Francisco, we can see that the density is much higher in the north-east coastal areas.
 
-![](figures\folium_heatmap.png)
+<img src="figures/folium_heatmap.png" width="700"/>
 
 If we plot the prices as colored dots on the map, we can see that the higher priced listings are mostly in the central areas and houses very close to the coast.
 
@@ -48,7 +48,7 @@ Superhosts are experienced hosts who meet a certain set of requirements and are 
 
 In average, superhosts have a 0.2 - 0.4 higher ratings in all aspects compared to regular hosts.
 
-![](figures\superhost_ratings.png)
+<img src="figures/superhost_ratings.png" width="900"/>
 
 ## 3 Machine Learning Price Prediction
 
@@ -97,7 +97,8 @@ The idea is that tree based regressions may be better at fitting the data that i
 
 Neural network is the machine learning algorithm that mimics the working of neron in human brian for learning. Although more oftenly used for classification problems, they are also very useful for regression problems such as predicting prices. The following is the archetechture I have used:
 
-![](figures\neural_network_structure.png)
+<img src="figures/neural_network_structure.png" width="900"/>
+
 
 For this kind of regression problem, you only need one or two hidden layers at most.
 
