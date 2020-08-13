@@ -36,7 +36,15 @@
 
 The object of this project is to help airbnb company and the hosts in San Francisco better understand location and price patterns and also suggest a pricing based on their housings. Some of the questions that I have analyzed are:
 
-- What are the locations that people rent airbnb?
-- How does neighborhood affect pricing?
-- Do superhosts provide a better renting experience?
-- Can we provide a prediction on pricing given the information we are provided?
+1. What are the locations that people rent airbnb?
+2. How does neighborhood affect pricing?
+3. Do superhosts provide a better renting experience?
+4. Can we provide a prediction on pricing given the information we are provided, if so which method does that best?
+
+### Conclusions
+
+Our findings are:
+1. Most airbnb rentals in San Francisco are in the north-east coastal areas.
+2. Prices in most neighbors are skewed to the right. The Downtown/Civic area while having the lowest average price, shows a bimodal distribution. This suggests a gap between the rich and poor.
+3. Superhosts in general provide better renting experience, their rating in all aspects were 0.2 - 0.4 higher in rating than regular hosts.
+4. We have used multiple machine learning algorithms to successfully make an estimation for airbnb rent price. In which Neural Network Regression has the best performance with a 55% R2 score.
