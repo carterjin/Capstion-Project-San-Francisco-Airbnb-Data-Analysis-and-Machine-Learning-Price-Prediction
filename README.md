@@ -48,3 +48,8 @@ Our findings are:
 2. Prices in most neighbors are skewed to the right. The Downtown/Civic area while having the lowest average price, shows a bimodal distribution. This suggests a gap between the rich and poor.
 3. Superhosts in general provide better renting experience, their rating in all aspects were 0.2 - 0.4 higher in rating than regular hosts.
 4. We have used multiple machine learning algorithms to successfully make an estimation for airbnb rent price. In which Neural Network Regression has the best performance with a 55% R2 score.
+
+### Medium Blog
+
+My Medium Blog on this topic is here:
+https://medium.com/@carterjinhaoming/this-is-how-i-estimate-price-for-airbnb-in-san-francisco-using-neural-network-4391c24b6847
